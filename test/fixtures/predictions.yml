@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  team_id: 
+  match_id: 
+  score: 1
+  user_id: 
+
+two:
+  team_id: 
+  match_id: 
+  score: 1
+  user_id: 
